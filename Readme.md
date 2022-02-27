@@ -4,16 +4,23 @@
 
 ## 🚩 Front LOOk of Main Page:
 
-![Front View](https://github.com/The-Shivam-garg/MP-PersonalPortfolio/blob/40c4bedb6dbc3b564582d38ea46078ec5c87ebc6/image/front.png)
+![Front View](https://github.com/The-Shivam-garg/Microsoft-Future-Ready-Talent-Internship-Project/blob/4e65f3719e0c6e5cec2a9d6e78aafe81fd1aeb47/images/front.jpg)
 
-### Web Technologies used: HTML, CSS, JS, Bootstrap
+### Web Technologies used: 
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)]
+[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]
+[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
+
+
+#### Extras : Particle.js, Typed.js, Tilt.js, Font Awesome, JSON, etc.
+
 
 #### IDE: VS-Code
 
 ## Note: Bot is deployed on contact page
 
 ## Industry : 
-Lifestyle
+Online Food Delivery
 
 ## Project Title :
 E-Commerce Website with FAQ Bot
@@ -36,12 +43,6 @@ Azure Bot Service, QnA Maker, Static Web Apps
 </h2> 
 
 ## 👨‍💻 Tech Stack:
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)]
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
-
-
-#### Extras : Particle.js, Typed.js, Tilt.js, Font Awesome, JSON, etc.
 
 
 
@@ -73,10 +74,10 @@ If you want to contact me, you can reach me through below Social handles.
 
 <div align="center">
 
-<a href="https://github.com/The-Shivam-garg/MP-PersonalPortfolio"><img src="https://sloc.xyz/github/The-Shivam-garg/MP-PersonalPortfolio" alt="LOC" /></a>
-<a href="https://github.com/The-Shivam-garg/MP-PersonalPortfolio"><img src="https://img.shields.io/github/stars/The-Shivam-garg/MP-PersonalPortfolio" alt="Stars Badge" /></a>
-<a href="https://github.com/The-Shivam-garg/MP-PersonalPortfolio/network/members"><img src="https://img.shields.io/github/forks/The-Shivam-garg/MP-PersonalPortfolio" alt="Forks Badge" /></a>
-<a href="https://github.com/The-Shivam-garg/MP-PersonalPortfolio/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/The-Shivam-garg/MP-PersonalPortfolio?color=2b9348" ></a>
+<a href="https://github.com/The-Shivam-garg/Microsoft-Future-Ready-Talent-Internship-Project"><img src="https://sloc.xyz/github/The-Shivam-garg/Microsoft-Future-Ready-Talent-Internship-Project" alt="LOC" /></a>
+<a href="https://github.com/The-Shivam-garg/Microsoft-Future-Ready-Talent-Internship-Project"><img src="https://img.shields.io/github/stars/The-Shivam-garg/Microsoft-Future-Ready-Talent-Internship-Project" alt="Stars Badge" /></a>
+<a href="https://github.com/The-Shivam-garg/Microsoft-Future-Ready-Talent-Internship-Project/network/members"><img src="https://img.shields.io/github/forks/The-Shivam-garg/Microsoft-Future-Ready-Talent-Internship-Project" alt="Forks Badge" /></a>
+<a href="https://github.com/The-Shivam-garg/Microsoft-Future-Ready-Talent-Internship-Project/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/The-Shivam-garg/Microsoft-Future-Ready-Talent-Internship-Project?color=2b9348" ></a>
 
-[![GitHub license](https://img.shields.io/github/license/The-Shivam-garg/MP-PersonalPortfolio?logo=github)](https://github.com/The-Shivam-garg/MP-PersonalPortfolio/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/The-Shivam-garg/Microsoft-Future-Ready-Talent-Internship-Project?logo=github)](https://github.com/The-Shivam-garg/Microsoft-Future-Ready-Talent-Internship-Project/blob/master/LICENSE)
 </div>
