@@ -36,7 +36,7 @@ Azure Bot Service, QnA Maker, Static Web Apps
 
 #### Other Azure Technologies : App Service
 
-### Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
+
 
 <h2> Website:You can visit E-commerce website by clicking on the visit down below: <BR>
 <a href="" target="_blank">Visit 🚀</a>
