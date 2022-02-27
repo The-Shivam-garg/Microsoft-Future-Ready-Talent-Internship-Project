@@ -6,7 +6,7 @@
 
 ![Front View](https://github.com/The-Shivam-garg/Microsoft-Future-Ready-Talent-Internship-Project/blob/4e65f3719e0c6e5cec2a9d6e78aafe81fd1aeb47/images/front.jpg)
 
-### Web Technologies used: 
+### 👨‍💻 Web Technologies used: 
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)]
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
@@ -41,11 +41,6 @@ Azure Bot Service, QnA Maker, Static Web Apps
 <h2> Website:You can visit E-commerce website by clicking on the visit down below: <BR>
 <a href="" target="_blank">Visit 🚀</a>
 </h2> 
-
-## 👨‍💻 Tech Stack:
-
-
-
 
 
 
